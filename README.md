@@ -1,24 +1,51 @@
 # ProjectRETv2 Modpack for Minecraft 1.6.4
+## Informations
 Here you'll find everything necessary for the ProjectRETv2 Modpack for Minecraft 1.6.4
-Follow us on:
-Youtube: http://www.youtube.com/user/BakermanLP
-Google+: https://plus.google.com/+BakermanlpDe
-Twitter: http://twitter.com/BakermanLP
+
+We haven't put a bunch of mods in the mods folder and that's all.
+
+The design goals for this modpack:
+* Make life in Minecraft really hard
+* Make Minecraft challenging
+* Keep ore distribution clean
+* get your hands on mods you've never used befor
+* Make mods working together like a charm
+* give the world a new look
+* Have a good technical time in Minecraft
+
+# FAQ
+## How can I get that Modpack ?
+* Install the atlauncher from <http://www.atlauncher.com>
+* Type in the search box Bakermanlp
+* press "New Instance" and let the game begin
+(Would be changed if this is a semi public or public pack)
+
+## Whats R.E.T. ?
+* Retired
+* Extremly
+* Technically
+
+## Follow us on
+* Youtube: http://www.youtube.com/user/BakermanLP
+* Google+: https://plus.google.com/+BakermanlpDe
+* Twitter: http://twitter.com/BakermanLP
 
 Videos and other external material is in german language 
 
+## Permissions, licences and links
 The permissions, licences, author and links are here:
 <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/licences.md>
 
+## Used Mod Versions
 The used version numbers are here:
 <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/versions.md>
 
-## ModListe
-#jarmods
+# ModListe
+## jarmods
 * forge
 * OptiFine
 
-#mods
+## mods
 * AOBD
 * appeng
 * ATG
