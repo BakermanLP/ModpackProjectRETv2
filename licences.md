@@ -35,7 +35,7 @@ INFORM
 ## Atomic-Science, Calclavia Core, Modular-Force-Field-System, Resonant-Induction, Universal-Electricity
 * Author: Calclavia
 * License: Gave me permission via Mail
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/UE-MFFS.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/UE-MFFS.png>
 
 ## Bibliocraft, BiblioWoods-Forestry
 * Author: Nuchaz
@@ -100,7 +100,7 @@ PM sent
 ## EnderIO
 * Author: Crazy Pants
 * License: Crazy Pants gave me permission via PM
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/enderio.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/enderio.png>
 
 ## Enhanced Portals 3
 * Author: Alz454
@@ -110,12 +110,12 @@ PM sent
 ## Evoc, JABBA, MobiusCore, Opis, Waila
 * Author: ProfMobius
 * License: Gave me permission via forum post
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/opis.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/opis.png>
 
 ## Extra Cells
 * Author: Leonelf
 * License: Gave me permission via PM and here is the screenshot:
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/extracells.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/extracells.png>
 
 ## ExtraUtilities
 * Author: RWTema
@@ -146,7 +146,7 @@ Yes this means you have permission to add it to any public or private mod pack w
 ## GregtechMod
 * Author: GregoriusT
 * License: Gave me permission via PM and here is the screenshot:
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/gregtechmod.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/gregtechmod.png>
 
 ## HardcoreEnderExpansion
 * Author: chylex
@@ -262,7 +262,7 @@ PM Sent
 ## Paintings++
 * Author: senpaisubaraki
 * License: Gave me permission via PM and here is the screenshot:
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/paintings%2B%2B.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/paintings%2B%2B.png>
 
 ## Pams Harvestcraft, Pams Temperate Plants, Pams Weee Flowers
 * Author: MatrexsVigil
@@ -278,7 +278,7 @@ PM Sent
 * Author: CovertJaguar
 * License: Gave me permission via Forums Thread:
 * Source URL: http://www.railcraft.info/forum/?mingleforumaction=viewtopic&t=199
-https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/railcraft.png
+https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/railcraft.png
 
 ## RedstoneinMotion
 * Author: CovertJaguar
@@ -303,9 +303,9 @@ http://stevesfactorymanager.wikispaces.com/
 - Proper credit to the authors mentioned above should be provided on a clear spot for everyone to see.
 - A link to either this site (Thread) or the wiki should be provided.
 * Source URL: http://www.minecraftforum.net/topic/1587267-
-PM Him!
+* Gave me permission via pm  <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/traincraft.png>
 
 ## VoxelMap
 * Author: MamiyaOtaru
 * License: Gave me permission via PM and here is the screenshot:
-* Source URL: <https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/voxelmap.png>
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/voxelmap.png>
