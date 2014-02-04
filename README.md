@@ -13,18 +13,6 @@ The design goals for this modpack:
 * give the world a new look
 * Have a good technical time in Minecraft
 
-# FAQ
-## How can I get that Modpack ?
-* Install the atlauncher from <http://www.atlauncher.com>
-* Type in the search box Bakermanlp
-* press "New Instance" and let the game begin
-(Would be changed if this is a semi public or public pack)
-
-## Whats R.E.T. ?
-* Retired
-* Extremly
-* Technically
-
 ## Follow us on
 * Youtube: http://www.youtube.com/user/BakermanLP
 * Google+: https://plus.google.com/+BakermanlpDe
@@ -39,6 +27,18 @@ The permissions, licences, author and links are here:
 ## Used Mod Versions
 The used version numbers are here:
 <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/versions.md>
+
+# FAQ
+## How can I get that Modpack ?
+* Install the atlauncher from <http://www.atlauncher.com>
+* Type in the search box Bakermanlp
+* press "New Instance" and let the game begin
+(Would be changed if this is a semi public or public pack)
+
+## Whats R.E.T. ?
+* Retired
+* Extremly
+* Technically
 
 # ModListe
 ## jarmods
