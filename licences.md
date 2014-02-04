@@ -150,10 +150,8 @@ Yes this means you have permission to add it to any public or private mod pack w
 
 ## HardcoreEnderExpansion
 * Author: chylex
-* License: NOPERMISSION
 * Source URL: http://www.minecraftforum.net/topic/1066990-
-
-PM Sent
+* Gave me permission via pm  <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/hardcoreenderexpansion.png>
 
 ## Highlands
 * Author: sdj64
