@@ -297,7 +297,7 @@ https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/railcr
 http://stevesfactorymanager.wikispaces.com/
 
 ## traincraft
-* Author: 4Spitfire4466, Mrbrutal, DAYdiecast
+* Author: Spitfire4466, Mrbrutal, DAYdiecast
 * License: Established modpacks or private server packs only (With the permission of at least one of the above mentioned authors) under these circumstances:
 - If your post count is below 100, and your modpack is less than a month old, your permission will be denied on spot with no further consideration.
 - Proper credit to the authors mentioned above should be provided on a clear spot for everyone to see.
