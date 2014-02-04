@@ -94,7 +94,8 @@ The main restriction is that sources must be accessible. If you are only redistr
 * Author: Reika
 * License: Public (launcher/website) packs must receive full permission from me. Until those permissions are given in writing from me, they are equivalent to being denied.
 * Source URL: http://www.minecraftforum.net/topic/1969694-
-PM Him!
+
+PM sent
 
 ## EnderIO
 * Author: Crazy Pants
@@ -151,13 +152,15 @@ Yes this means you have permission to add it to any public or private mod pack w
 * Author: chylex
 * License: NOPERMISSION
 * Source URL: http://www.minecraftforum.net/topic/1066990-
-PM Him
+
+PM Sent
 
 ## Highlands
 * Author: sdj64
 * License: You must ask the owner for permission if you want to include the mod in a modpack.
 * Source URL: http://www.minecraftforum.net/topic/1602064-
-PM Him
+
+PM Sent
 
 ## Hunger Overhaul, Tweaks for Tinkers Construct
 * Author: iguana
@@ -218,7 +221,8 @@ PM him
 * Click_Me
 * License: This modification is sole property of me. The download link or download itself may only be mirrored or reposted with advance written permissions. URL shorteners or other attempts to make money of my mod are strictly forbidden. 
 * Source URL: http://www.minecraftforum.net/topic/1079695-
-PM Him
+
+PM Sent
 
 ## Natura, TConstruct
 * Author: mDiyo
@@ -292,8 +296,8 @@ https://github.com/BakermanLP/Minecraft-ModPack-1.6.2/blob/master/permissions/ra
 * http://stevescarts2.wikispaces.com/
 http://stevesfactorymanager.wikispaces.com/
 
-## Traincraft
-* Author:
+## traincraft
+* Author: 4Spitfire4466, Mrbrutal, DAYdiecast
 * License: Established modpacks or private server packs only (With the permission of at least one of the above mentioned authors) under these circumstances:
 - If your post count is below 100, and your modpack is less than a month old, your permission will be denied on spot with no further consideration.
 - Proper credit to the authors mentioned above should be provided on a clear spot for everyone to see.
