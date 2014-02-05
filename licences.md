@@ -17,7 +17,8 @@ The user of Minecraft Forge is allowed to redistribute Minecraft Forge in partia
 * permissions: Feel free to use this mod in any mod pack, public or private. Just don't get credit for my and Dylan4Ever's work.
 Also, let me know if you are using it on a public one. I'd like to know just out of curiosity Posted Image I won't deny any requests.
 * Source URL: <http://www.minecraftforum.net/topic/2319703->
-INFORM
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/aobd.png>
+
 
 ## Applied Energistics
 * Author: AlgorithmX2
@@ -157,8 +158,7 @@ Yes this means you have permission to add it to any public or private mod pack w
 * Author: sdj64
 * License: You must ask the owner for permission if you want to include the mod in a modpack.
 * Source URL: http://www.minecraftforum.net/topic/1602064-
-
-PM Sent
+* Gave me permission via pm  <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/highlands.png>
 
 ## Hunger Overhaul, Tweaks for Tinkers Construct
 * Author: iguana
