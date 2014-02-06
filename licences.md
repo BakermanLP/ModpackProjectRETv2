@@ -95,8 +95,7 @@ The main restriction is that sources must be accessible. If you are only redistr
 * Author: Reika
 * License: Public (launcher/website) packs must receive full permission from me. Until those permissions are given in writing from me, they are equivalent to being denied.
 * Source URL: http://www.minecraftforum.net/topic/1969694-
-
-PM sent
+* Pack mentioned in the forums post under "Approved ModPacks"
 
 ## EnderIO
 * Author: Crazy Pants
@@ -213,13 +212,11 @@ Modpackers: yes, I allow both this and compact solars into modpacks, and being o
 * Author: skyboy026
 * License: Free for non-commercial use. You are free to include any of these mods in any modpacks or server-specific packs without needing to ask permission (but it'd be nice to hear if you do!), provided something either in the download or on your site lists me as the creator. You are also free to produce Bukkit ports. A link to this thread would be nice for any of the above, but that's all I ask.
 * Source URL: http://www.minecraftforum.net/topic/2016680-
-PM him
 
 ## More Nature
 * Click_Me
 * License: This modification is sole property of me. The download link or download itself may only be mirrored or reposted with advance written permissions. URL shorteners or other attempts to make money of my mod are strictly forbidden. 
 * Source URL: http://www.minecraftforum.net/topic/1079695-
-
 PM Sent
 
 ## Natura, TConstruct
