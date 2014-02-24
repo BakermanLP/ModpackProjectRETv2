@@ -155,10 +155,20 @@ dimblacklist {
 
 
 ####################
+# environment checks
+####################
+
+"environment checks" {
+    B:IsModpack=false
+}
+
+
+####################
 # equipables
 ####################
 
 equipables {
+    B:Exo-Armor-Craftable=true
     I:Exo-Boots=17000
     I:Exo-Chestpiece=17001
     I:Exo-Goggles=17002
@@ -268,6 +278,7 @@ looks {
 
 superfun {
     B:"All the world is Superfun"=false
+    B:Enable-TCon-Capes=true
 }
 
 

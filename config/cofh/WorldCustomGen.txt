@@ -14,3 +14,4 @@
 #NORMAL	Uranium	1910	0	4	4	32	16	false
 #NORMAL	Apatite	1426	0	8	2	48	16	false
 #NORMAL	CertusQ	1002	0	3	8	48	16	false
+UNIFORM	Emerald	129	0	7	1	0	16	false
