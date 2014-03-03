@@ -27,6 +27,11 @@ Also, let me know if you are using it on a public one. I'd like to know just out
 All I really ask is that you make sure that you tell people that my mod is included. Something like "Applied Energistics by AlgorithmX2" with a link to this wiki would work nicely.
 * Source URL: http://ae-mod.info/Frequently-Asked-Questions/
 
+## Archimedes Ships
+* Author: BalkondeurAlpha
+* Licence: Gave me permission via PM 
+* Source URL: <https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/archimedesships.jpg>
+
 ## Advanced Terrain Generation
 * Author: TTFTCUTS
 * License: If you want to add ATG to a mod pack, then as long as it doesn't make money, that's fine by me. You don't need to ask permission, but it'd be nice (though not necessary) to drop me a message to say hi.
