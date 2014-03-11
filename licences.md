@@ -218,6 +218,16 @@ Modpackers: yes, I allow both this and compact solars into modpacks, and being o
 * License: Free for non-commercial use. You are free to include any of these mods in any modpacks or server-specific packs without needing to ask permission (but it'd be nice to hear if you do!), provided something either in the download or on your site lists me as the creator. You are also free to produce Bukkit ports. A link to this thread would be nice for any of the above, but that's all I ask.
 * Source URL: http://www.minecraftforum.net/topic/2016680-
 
+## MineTweaker
+* Author: 
+* License: Permissions and modpacks: free to use in modpacks as long as no money is generated from the modpack downloads. (this includes, but is not limited to, adfly links) I am always glad to hear about how you use the mod, but its not a requirement.
+* Source URL: http://www.minecraftforum.net/topic/1886008-
+
+## Modular Power Suits
+* Author: MachineMuse
+* License: Modpacks: Yes, you may include this mod in your pack. I will not sign up on your website to give you express written permission. Just link to this page.
+* Source URL: http://machinemuse.net/modpacks.php
+
 ## More Nature
 * Click_Me
 * License: This modification is sole property of me. The download link or download itself may only be mirrored or reposted with advance written permissions. URL shorteners or other attempts to make money of my mod are strictly forbidden. 
@@ -281,7 +291,7 @@ PM Sent
 https://github.com/BakermanLP/ModpackProjectRETv2/blob/master/permissions/railcraft.png
 
 ## RedstoneinMotion
-* Author: CovertJaguar
+* Author: jakj
 * License: The following are ENCOURAGED (that means just do it and tell me afterward; dont bother asking first):
 ** Usage of this mod both publicly and privately.
 ** Distribution of this mod in both public and private modpacks.
