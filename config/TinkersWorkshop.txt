@@ -129,6 +129,7 @@ block {
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
     B:"Modifiers increase Mining Level"=true
+    B:"Remove Vanilla Tool Effectiveness"=false
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
 }
@@ -155,10 +156,22 @@ dimblacklist {
 
 
 ####################
+# drawbridge
+####################
+
+drawbridge {
+    # Add block or item IDs that should not be placed from the drawbridge
+    I:"Drawbridge Blacklist" <
+     >
+}
+
+
+####################
 # environment checks
 ####################
 
 "environment checks" {
+    # Change env check warnings to reflect that this is a modpack.
     B:IsModpack=false
 }
 
@@ -232,6 +245,7 @@ looks {
     I:"Armor Pattern"=17011
     I:"Blank Patterns"=17012
     I:Buckets=17013
+    I:"Creative Modifier Item"=17074
     I:"Golden Head"=17014
     I:Jerky=17015
     I:"Jeweled Apple"=17016
