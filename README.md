@@ -30,10 +30,10 @@ The used version numbers are here:
 
 # FAQ
 ## How can I get that Modpack ?
-* Install the atlauncher from <http://www.atlauncher.com>
-* Type in the search box Bakermanlp
-* press "New Instance" and let the game begin
-(Would be changed if this is a semi public or public pack)
+* Install the TechnicLauchner from <http://www.technicpack.net/>
+* Type in the search box "ProjectRETv2"
+* Add an new pack and paste the Platform URL
+* Press play and enjoy
 
 ## Whats R.E.T. ?
 * Retired
@@ -55,17 +55,16 @@ The used version numbers are here:
 * BiblioWoods[Forestry]
 * BigReactors
 * binnie-mods
-* buildcraft
-* Calclavia Core
+* Buildcraft
 * CCTransport
 * ChickenChunks
 * CodeChickenCore
 * CoFHCore
 * ComputerCraft
-* CraftingSuite
 * CreeperCollateral
 * denLib
 * DragonAPI
+* ElectriCraft
 * EnderIO
 * EnderStorage
 * EnhancedPortals
@@ -74,48 +73,56 @@ The used version numbers are here:
 * extrautils
 * Factorization
 * forestry
-* Forge_GuiLib
-* Forge_PaintingSelectionGui
 * gendustry
 * gregtechmod
+* GuiLib
 * HardcoreEnderExpansion
+* HarvestCraftWaila
 * Highlands
 * hungeroverhaul
+* Hydrauliccraft
+* IC2FixesGT
 * IC2NuclearControl
-* iguanatweakstconstruct
-* industrialcraft-experimental
+* Industrial Craft 2 experimental
 * InventoryTweaks
 * ironchest-universal
 * JABBA
+* JAMI
 * LogisticsPipes
 * magicbees
-* MekanismGenerators
-* MekanismInduction
-* MekanismTools
 * Mekanism
+* MekanismGenerators
+* MekanismTools
 * MineFactoryReloaded
 * MobiusCore
+* GraviSuite
 * Modular-Force-Field-System
-* More Nature
+* ModularPowersuits
+* Mystcraft
 * Natura
 * neiaddons
 * NEIPlugins
 * NetherOres
 * NotEnoughItems
 * NotEnoughKeys
+* Numina
 * obsidiplates
 * OpenBlocks
+* OpenComponents
 * OpenComputers
+* OpenEye
 * OpenModsLib
 * OpenPeripheralAddons
 * OpenPeripheralCore
 * Opis
+* PaintingSelectionGui
 * Paintings-plus
 * Pams HarvestCraft
 * Pam''s Temperate Plants
 * Pam''s Weee Flowers
 * PluginsforForestry
 * PowerCrystalsCore
+* PowerSuiteAddons
 * ProjectRedBase
 * ProjectRedCompat
 * ProjectRedIntegration
@@ -126,16 +133,26 @@ The used version numbers are here:
 * Railcraft
 * ReactorCraft
 * RedstoneArsenal
-* RedstoneInMotion
-* Resonant-Induction
+* RemainInMotion
+* Resonant-Engine
+* Resonant-Induction archaic
+* Resonant-Induction atmonic
+* Resonant-Induction electrical
+* Resonant-Induction mechanical
+* Resonant Indcution Core
 * RotaryCraft
+* slick
 * StevesCarts2
 * StevesFactoryManager
 * TConstruct
 * ThermalExpansion
+* TiCTooltips
+* TiCtweaks
 * TMechworks
 * traincraft
 * Translocator
 * Universal-Electricity
 * Waila
+* WailaHarvestability
 * WR-CBE
+* MineTweaker
