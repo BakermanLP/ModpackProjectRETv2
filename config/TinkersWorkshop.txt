@@ -181,7 +181,7 @@ drawbridge {
 ####################
 
 equipables {
-    B:Exo-Armor-Craftable=true
+    B:Exo-Armor-Craftable=false
     I:Exo-Boots=17000
     I:Exo-Chestpiece=17001
     I:Exo-Goggles=17002

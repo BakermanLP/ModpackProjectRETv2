@@ -19,6 +19,7 @@
     },
     "data": {
         "scanOnly": {
+            "comment": "Send only information about files and crashes - no analytics",
             "value": false
         },
         "tags": {
@@ -30,10 +31,13 @@
         }
     },
     "debug": {
-        "pingOnInitialReport": {
+        "debugSanitizer": {
             "value": false
         },
         "crashOnStartup": {
+            "value": false
+        },
+        "pingOnInitialReport": {
             "value": false
         },
         "dontSend": {
